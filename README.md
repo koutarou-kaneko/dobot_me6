@@ -22,7 +22,7 @@ catkin build
 
 ## How to use
 ```bash
-roslaunch me6_bringup bringup.launch
+roslaunch dobot_bringup bringup.launch
 ```
 There are 3 args.
 
